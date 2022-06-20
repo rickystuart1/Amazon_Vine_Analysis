@@ -10,6 +10,11 @@ After filtering the available reviews to customers who had recieved at least 20 
 
 Included below is a table showing these results.
 
-<img src="images/vine_analysis"> 
+<img src="images/vine_analysis.png"> 
+
+- Of the total 50,739 reviews, only 2.13% (1080) of them were paid Vine Program reviewers. 
 
 ## Summary 
+After analysis of the results, it can be concluded that there is no support of positivity bias from reviews in the Vine program. People in this program had a lower percentage chance to give a 5 star review, 42.0%, when compared to the normal reviewee, 46.4%. If anything, one could suggest that the Vine program reviewers give a fair unbiased review to the products that they are writing about and that their reviews can be taken into consideration without fear of biasedness. 
+
+To strengthen our conclusion and this analysis, the reviews from several other product categories should be analyzed and compared to this one.
